@@ -650,9 +650,20 @@ video{
    .ar15{
     left: 50% ;
    }
+   .ar17{
+    left: 60%;
+   }
    /* made changes here */
    
-  
+   .dollez img{
+    width: 200px;
+   }
+  /* made changes here */
+
+  .game{
+    width: 200px;
+  }
+  /* made changes here */
 }
 
 
