@@ -637,13 +637,20 @@ video{
 
    .spy{
     padding: 35px;
+    display: flex;
+    flex-direction: column;
    }
+   /* made changes here */
    
    .thirdpage{
     flex-direction: column;
 
     padding: 20px;
    }
+   .ar15{
+    left: 50% ;
+   }
+   /* made changes here */
    
   
 }
